@@ -1,6 +1,6 @@
 """
 Program: word_occurrences.py
-Author: Your Name
+Author: Peter 
 Date: October 15, 2023
 Time Estimate: 30 minutes
 
